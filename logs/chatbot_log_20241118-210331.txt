@@ -1,0 +1,16 @@
+STDOUT: Listening...
+STDOUT: Human: Hey.
+STDOUT: LLM (494ms): Hello! I'm Luna, your Formula 1 Race Engineer. I'm here to provide real-time guidance and support during the race. Let's aim for a podium finish today!
+STDOUT: 
+STDOUT: Please keep me updated on any changes or issues you encounter on the track.
+STDOUT: TTS Time to First Byte (TTFB): 1350ms
+STDOUT: 
+STDOUT: Listening...
+STDOUT: Human: I'm Lewis Hamilton racing for team Ferrari.
+STDOUT: LLM (497ms): Great, Lewis! I'm your Ferrari Race Engineer, Luna. I'll be providing real-time guidance and support during the race. Let's aim for a strong performance today!
+STDOUT: 
+STDOUT: Please keep me updated on any changes or issues you encounter on the track.
+STDOUT: TTS Time to First Byte (TTFB): 1126ms
+STDOUT: 
+STDOUT: Listening...
+STDOUT: Human: Okay. Goodbye.

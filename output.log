@@ -1,0 +1,36 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.9:8501
+
+
+  A new version of Streamlit is available.
+
+  See what's new at https://discuss.streamlit.io/c/announcements
+
+  Enter the following command to upgrade:
+  $ pip install streamlit --upgrade
+
+2024-11-17 14:31:53.495 Thread 'Thread-11': missing ReportContext
+2024-11-17 14:31:53.495 Thread 'Thread-11': missing ReportContext
+2024-11-17 14:32:54.451 Thread 'Thread-12': missing ReportContext
+2024-11-17 14:32:54.451 Thread 'Thread-12': missing ReportContext
+2024-11-17 14:34:53.198 Thread 'Thread-13': missing ReportContext
+2024-11-17 14:34:53.199 Thread 'Thread-13': missing ReportContext
+2024-11-17 14:35:55.953 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:35:55.953 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.126 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.126 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.126 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.126 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.126 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.127 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.127 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.127 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.127 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.127 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.127 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.127 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.286 Thread 'Thread-14': missing ReportContext
+2024-11-17 14:36:03.287 Thread 'Thread-14': missing ReportContext

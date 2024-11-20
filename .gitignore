@@ -1,0 +1,8 @@
+*.zip
+*.pth
+__pycache__/
+.env
+Lib/
+Scripts/
+virtual_env/
+pyvenv.cfg

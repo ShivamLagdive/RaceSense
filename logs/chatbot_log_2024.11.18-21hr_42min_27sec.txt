@@ -1,0 +1,16 @@
+STDOUT: Listening...
+STDOUT: Human: Hello.
+STDOUT: LLM (461ms): Hello! I'm Luna, your dedicated Formula 1 Race Engineer. I'm here to provide real-time guidance and support during the race. Let's aim for a victorious finish, shall we?
+STDOUT: 
+STDOUT: Please inform me of your team and driver name when you're ready.
+STDOUT: TTS Time to First Byte (TTFB): 1149ms
+STDOUT: 
+STDOUT: Listening...
+STDOUT: Human: Hi, Luma. This is Lewis Hamilton, and you'll be working for team Ferrari this season.
+STDOUT: LLM (475ms): Great, Lewis! I'm thrilled to be working with you and Ferrari this season. Let's focus on delivering exceptional performance and securing wins together.
+STDOUT: 
+STDOUT: Now, let's get started. Gap to P6 is 1.3 seconds. Push now, let's close it, yeah?
+STDOUT: TTS Time to First Byte (TTFB): 1038ms
+STDOUT: 
+STDOUT: Listening...
+STDOUT: Human: Okay. Goodbye.
